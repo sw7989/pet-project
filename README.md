@@ -7,6 +7,9 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 二、方案应用场景
 ==
     地点:  室内；
+    描述： 本DEMO旨在解决家庭中养有宠物的喂食问题，当主人忙碌时可自动喂食
+          本DEMO带有一个433MHz遥控器，宠物可通过一定的练习，按动遥控器实现宠物自行投食
+          
     功能: 1）自动定时执行每日喂食计划
           2）远程手动喂食
           3）宠物可通过一定的学习使用外置433MHz遥控器自行投放粮食并记录次数，用户可设置允许宠物自行投食的次数和粮食数量
