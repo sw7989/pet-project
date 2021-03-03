@@ -22,3 +22,11 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
     1）3月14前准备物料
     2）3月9-28日嵌入式开发、云开发
     3）3月20日前整体调试
+
+四、预计使用硬件
+==
+    STM32F103C8T6核心板
+    通信板（ Wi-Fi MCU 通信板（WB3S））
+    H桥直流电机驱动功能板
+    直流供电电源板
+    12V减速电机
