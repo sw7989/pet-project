@@ -28,6 +28,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
             5）电池电量检测，低电量远程通知；
             6）粮食储量监测，低粮远程通知；
             7）超长待机，智能宠物喂食器在无需工作时，会进入休眠模式，减少电池电量消耗，达到更长的续航时间
+            8）供电方式切换，在家里突发没有电的情况下会自动切换为电池供电，保障宠物的喂食计划不受影响
 
 三、开发计划
 ==
